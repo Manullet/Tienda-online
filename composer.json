@@ -1,0 +1,17 @@
+{
+    "name": "manue/mermelada-savora",
+    "description": "Proyect Personal Mermemladas",
+    "type": "project",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+"prefer-stable": true,
+
+    
+
+    "require": {
+        "obregonco/backblaze-b2": "^1.1",
+        "aws/aws-sdk-php": "^3.356",
+        "tecnickcom/tcpdf": "^6.10",
+        "phpoffice/phpspreadsheet": "^5.1"
+    }
+}

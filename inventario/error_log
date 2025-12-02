@@ -1,0 +1,151 @@
+[27-Sep-2025 17:28:41 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/inventario/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 17:28:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/inventario/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/inventario/inventario.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 17:28:57 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/inventario/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 17:28:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/inventario/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/inventario/inventario.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 17:32:08 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/inventario/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 17:32:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/inventario/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/inventario/inventario.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 17:32:12 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/inventario/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 17:32:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/inventario/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/inventario/inventario.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 17:32:19 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/inventario/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 17:32:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/inventario/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/inventario/inventario.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 17:35:31 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/inventario/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 17:35:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/inventario/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/inventario/inventario.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 17:35:37 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/inventario/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 17:35:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/inventario/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/inventario/inventario.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 17:36:42 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/inventario/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 17:36:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/inventario/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/inventario/inventario.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 17:36:53 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/inventario/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 17:36:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/inventario/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/inventario/inventario.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 17:41:37 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/inventario/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 17:41:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/inventario/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/inventario/inventario.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 17:42:03 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/inventario/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 17:42:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/inventario/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/inventario/inventario.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 17:42:26 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/inventario/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 17:42:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/inventario/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/inventario/inventario.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 17:42:39 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/inventario/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 17:42:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/inventario/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/inventario/inventario.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 17:43:09 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/inventario/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 17:43:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/inventario/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/inventario/inventario.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 17:43:46 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/inventario/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 17:43:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/inventario/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/inventario/inventario.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 17:44:04 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/inventario/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 17:44:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/inventario/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/inventario/inventario.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 17:44:17 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/inventario/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 17:44:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/inventario/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/inventario/inventario.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 19:44:16 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/inventario/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 19:44:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/inventario/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/inventario/inventario.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 19:44:19 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/inventario/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 19:44:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/inventario/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/inventario/inventario.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 20:52:36 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/inventario/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 20:52:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/inventario/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/inventario/inventario.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 20:52:46 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/inventario/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 20:52:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/inventario/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/inventario/inventario.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 20:56:49 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/inventario/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 20:56:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/inventario/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/inventario/inventario.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 7
+[27-Sep-2025 21:04:16 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/inventario/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 8
+[27-Sep-2025 21:04:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/inventario/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/inventario/inventario.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 8
+[27-Sep-2025 21:09:46 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/inventario/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 8
+[27-Sep-2025 21:09:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/inventario/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/inventario/inventario.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 8
+[27-Sep-2025 21:24:07 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/inventario/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 9
+[27-Sep-2025 21:24:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/inventario/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/inventario/inventario.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/inventario/inventario.php on line 9
+[27-Sep-2025 21:34:56 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/inventario/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/inventario/products_desactivados.php on line 2
+[27-Sep-2025 21:34:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/inventario/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/inventario/products_desactivados.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/inventario/products_desactivados.php on line 2
+[27-Sep-2025 21:37:20 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/inventario/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/inventario/add_producto.php on line 2
+[27-Sep-2025 21:37:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/inventario/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/inventario/add_producto.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/inventario/add_producto.php on line 2
+[30-Sep-2025 04:26:09 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/inventario/../../includes/functions.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/inventario/reactivar_producto.php on line 2
+[30-Sep-2025 04:26:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/inventario/../../includes/functions.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/inventario/reactivar_producto.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/inventario/reactivar_producto.php on line 2
+[30-Sep-2025 04:54:15 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/wgtde1wca97u/public_html/config/config.php on line 25) in /home/wgtde1wca97u/public_html/inventario/edit_producto.php on line 3
+[30-Sep-2025 06:18:30 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/inventario/../../includes/functions.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/inventario/delete_producto.php on line 2
+[30-Sep-2025 06:18:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/inventario/../../includes/functions.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/inventario/delete_producto.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/inventario/delete_producto.php on line 2
+[30-Sep-2025 06:18:37 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/inventario/../../includes/functions.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/inventario/delete_producto.php on line 2
+[30-Sep-2025 06:18:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/inventario/../../includes/functions.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/inventario/delete_producto.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/inventario/delete_producto.php on line 2

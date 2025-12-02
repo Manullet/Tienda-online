@@ -1,0 +1,25 @@
+[25-Sep-2025 17:29:46 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/sales/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/sales/admin_order_detail.php on line 2
+[25-Sep-2025 17:29:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/sales/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/sales/admin_order_detail.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/sales/admin_order_detail.php on line 2
+[25-Sep-2025 17:32:13 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/sales/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/sales/export_orders.php on line 2
+[25-Sep-2025 17:32:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/sales/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/sales/export_orders.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/sales/export_orders.php on line 2
+[25-Sep-2025 20:04:43 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/sales/../../vendor/autoload.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/sales/export_orders.php on line 5
+[25-Sep-2025 20:04:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/sales/../../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/sales/export_orders.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/sales/export_orders.php on line 5
+[26-Sep-2025 03:15:24 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/sales/../../vendor/autoload.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/sales/export_orders.php on line 5
+[26-Sep-2025 03:15:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/sales/../../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/sales/export_orders.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/sales/export_orders.php on line 5
+[26-Sep-2025 03:16:22 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/sales/../../vendor/tecnickcom/tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/sales/export_orders.php on line 83
+[26-Sep-2025 03:16:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/sales/../../vendor/tecnickcom/tcpdf/tcpdf.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/sales/export_orders.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/sales/export_orders.php on line 83

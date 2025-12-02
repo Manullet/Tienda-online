@@ -1,0 +1,23 @@
+[25-Sep-2025 15:40:22 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/auth/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/auth/login.php on line 7
+[25-Sep-2025 15:40:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/auth/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/auth/login.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/auth/login.php on line 7
+[25-Sep-2025 15:42:01 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/auth/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/auth/login.php on line 7
+[25-Sep-2025 15:42:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/auth/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/auth/login.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/auth/login.php on line 7
+[30-Sep-2025 06:44:16 UTC] PHP Warning:  Undefined array key "csrf_token" in /home/wgtde1wca97u/public_html/auth/register.php on line 93
+[30-Sep-2025 06:52:58 UTC] PHP Warning:  Undefined array key "csrf_token" in /home/wgtde1wca97u/public_html/auth/login.php on line 340
+[30-Sep-2025 06:52:58 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wgtde1wca97u/public_html/auth/login.php on line 340
+[30-Sep-2025 06:53:02 UTC] PHP Warning:  Undefined array key "csrf_token" in /home/wgtde1wca97u/public_html/auth/login.php on line 340
+[30-Sep-2025 06:53:02 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wgtde1wca97u/public_html/auth/login.php on line 340
+[30-Sep-2025 06:53:30 UTC] PHP Warning:  Undefined array key "csrf_token" in /home/wgtde1wca97u/public_html/auth/login.php on line 340
+[30-Sep-2025 06:53:30 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/wgtde1wca97u/public_html/auth/login.php on line 340
+[15-Oct-2025 03:29:03 UTC] PHP Warning:  Undefined array key "csrf_token" in /home/wgtde1wca97u/public_html/auth/register.php on line 93
+[17-Oct-2025 01:08:15 UTC] PHP Warning:  Undefined array key "csrf_token" in /home/wgtde1wca97u/public_html/auth/register.php on line 93
+[17-Oct-2025 01:43:31 UTC] PHP Warning:  Undefined array key "csrf_token" in /home/wgtde1wca97u/public_html/auth/register.php on line 93
+[18-Oct-2025 01:40:10 UTC] PHP Warning:  Undefined array key "csrf_token" in /home/wgtde1wca97u/public_html/auth/register.php on line 93
+[18-Oct-2025 21:13:49 UTC] PHP Warning:  Undefined array key "csrf_token" in /home/wgtde1wca97u/public_html/auth/register.php on line 93
+[21-Oct-2025 00:21:56 UTC] PHP Warning:  Undefined array key "csrf_token" in /home/wgtde1wca97u/public_html/auth/register.php on line 93

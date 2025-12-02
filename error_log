@@ -1,0 +1,161 @@
+[25-Sep-2025 15:15:57 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/index.php on line 8
+[25-Sep-2025 15:15:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/index.php on line 8
+[25-Sep-2025 15:17:51 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/includes/functions.php on line 10
+[25-Sep-2025 15:17:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/includes/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/includes/functions.php:10
+Stack trace:
+#0 /home/wgtde1wca97u/public_html/index.php(9): require_once()
+#1 {main}
+  thrown in /home/wgtde1wca97u/public_html/includes/functions.php on line 10
+[25-Sep-2025 15:18:01 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/includes/functions.php on line 10
+[25-Sep-2025 15:18:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/includes/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/includes/functions.php:10
+Stack trace:
+#0 /home/wgtde1wca97u/public_html/index.php(9): require_once()
+#1 {main}
+  thrown in /home/wgtde1wca97u/public_html/includes/functions.php on line 10
+[25-Sep-2025 15:18:04 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/includes/functions.php on line 10
+[25-Sep-2025 15:18:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/includes/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/includes/functions.php:10
+Stack trace:
+#0 /home/wgtde1wca97u/public_html/index.php(9): require_once()
+#1 {main}
+  thrown in /home/wgtde1wca97u/public_html/includes/functions.php on line 10
+[25-Sep-2025 15:18:05 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/includes/functions.php on line 10
+[25-Sep-2025 15:18:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/includes/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/includes/functions.php:10
+Stack trace:
+#0 /home/wgtde1wca97u/public_html/index.php(9): require_once()
+#1 {main}
+  thrown in /home/wgtde1wca97u/public_html/includes/functions.php on line 10
+[25-Sep-2025 15:26:51 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/includes/functions.php on line 10
+[25-Sep-2025 15:26:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/includes/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/includes/functions.php:10
+Stack trace:
+#0 /home/wgtde1wca97u/public_html/index.php(9): require_once()
+#1 {main}
+  thrown in /home/wgtde1wca97u/public_html/includes/functions.php on line 10
+[25-Sep-2025 15:26:57 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/includes/functions.php on line 10
+[25-Sep-2025 15:26:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/includes/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/includes/functions.php:10
+Stack trace:
+#0 /home/wgtde1wca97u/public_html/index.php(9): require_once()
+#1 {main}
+  thrown in /home/wgtde1wca97u/public_html/includes/functions.php on line 10
+[25-Sep-2025 15:27:01 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/includes/functions.php on line 10
+[25-Sep-2025 15:27:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/includes/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/includes/functions.php:10
+Stack trace:
+#0 /home/wgtde1wca97u/public_html/index.php(9): require_once()
+#1 {main}
+  thrown in /home/wgtde1wca97u/public_html/includes/functions.php on line 10
+[25-Sep-2025 15:27:15 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/includes/functions.php on line 10
+[25-Sep-2025 15:27:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/includes/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/includes/functions.php:10
+Stack trace:
+#0 /home/wgtde1wca97u/public_html/index.php(9): require_once()
+#1 {main}
+  thrown in /home/wgtde1wca97u/public_html/includes/functions.php on line 10
+[25-Sep-2025 15:27:17 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/includes/functions.php on line 10
+[25-Sep-2025 15:27:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/includes/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/includes/functions.php:10
+Stack trace:
+#0 /home/wgtde1wca97u/public_html/index.php(9): require_once()
+#1 {main}
+  thrown in /home/wgtde1wca97u/public_html/includes/functions.php on line 10
+[25-Sep-2025 15:27:19 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/includes/functions.php on line 10
+[25-Sep-2025 15:27:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/includes/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/includes/functions.php:10
+Stack trace:
+#0 /home/wgtde1wca97u/public_html/index.php(9): require_once()
+#1 {main}
+  thrown in /home/wgtde1wca97u/public_html/includes/functions.php on line 10
+[25-Sep-2025 15:30:08 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/includes/functions.php on line 10
+[25-Sep-2025 15:30:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/includes/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/includes/functions.php:10
+Stack trace:
+#0 /home/wgtde1wca97u/public_html/index.php(9): require_once()
+#1 {main}
+  thrown in /home/wgtde1wca97u/public_html/includes/functions.php on line 10
+[25-Sep-2025 15:30:13 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/includes/functions.php on line 10
+[25-Sep-2025 15:30:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/includes/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/includes/functions.php:10
+Stack trace:
+#0 /home/wgtde1wca97u/public_html/index.php(9): require_once()
+#1 {main}
+  thrown in /home/wgtde1wca97u/public_html/includes/functions.php on line 10
+[25-Sep-2025 15:30:35 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/includes/functions.php on line 10
+[25-Sep-2025 15:30:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/includes/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/includes/functions.php:10
+Stack trace:
+#0 /home/wgtde1wca97u/public_html/index.php(9): require_once()
+#1 {main}
+  thrown in /home/wgtde1wca97u/public_html/includes/functions.php on line 10
+[25-Sep-2025 15:31:27 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/includes/functions.php on line 10
+[25-Sep-2025 15:31:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/includes/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/includes/functions.php:10
+Stack trace:
+#0 /home/wgtde1wca97u/public_html/index.php(11): require_once()
+#1 {main}
+  thrown in /home/wgtde1wca97u/public_html/includes/functions.php on line 10
+[25-Sep-2025 15:31:28 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/includes/functions.php on line 10
+[25-Sep-2025 15:31:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/includes/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/includes/functions.php:10
+Stack trace:
+#0 /home/wgtde1wca97u/public_html/index.php(11): require_once()
+#1 {main}
+  thrown in /home/wgtde1wca97u/public_html/includes/functions.php on line 10
+[25-Sep-2025 15:32:55 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/index.php on line 10
+[25-Sep-2025 15:32:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/index.php on line 10
+[25-Sep-2025 15:32:56 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/index.php on line 10
+[25-Sep-2025 15:32:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/index.php on line 10
+[25-Sep-2025 15:34:04 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/includes/functions.php on line 10
+[25-Sep-2025 15:34:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/includes/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/includes/functions.php:10
+Stack trace:
+#0 /home/wgtde1wca97u/public_html/index.php(11): require_once()
+#1 {main}
+  thrown in /home/wgtde1wca97u/public_html/includes/functions.php on line 10
+[25-Sep-2025 15:34:04 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/includes/functions.php on line 10
+[25-Sep-2025 15:34:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/includes/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/includes/functions.php:10
+Stack trace:
+#0 /home/wgtde1wca97u/public_html/index.php(11): require_once()
+#1 {main}
+  thrown in /home/wgtde1wca97u/public_html/includes/functions.php on line 10
+[25-Sep-2025 15:36:49 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/index.php on line 10
+[25-Sep-2025 15:36:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/index.php on line 10
+[25-Sep-2025 15:36:49 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/index.php on line 10
+[25-Sep-2025 15:36:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/index.php on line 10
+[25-Sep-2025 15:37:30 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/includes/functions.php on line 10
+[25-Sep-2025 15:37:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/includes/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/includes/functions.php:10
+Stack trace:
+#0 /home/wgtde1wca97u/public_html/index.php(14): require_once()
+#1 {main}
+  thrown in /home/wgtde1wca97u/public_html/includes/functions.php on line 10
+[25-Sep-2025 15:37:30 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/includes/functions.php on line 10
+[25-Sep-2025 15:37:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/includes/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/includes/functions.php:10
+Stack trace:
+#0 /home/wgtde1wca97u/public_html/index.php(14): require_once()
+#1 {main}
+  thrown in /home/wgtde1wca97u/public_html/includes/functions.php on line 10
+[25-Sep-2025 15:38:41 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/index.php on line 10
+[25-Sep-2025 15:38:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/index.php on line 10
+[25-Sep-2025 15:38:41 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/index.php on line 10
+[25-Sep-2025 15:38:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wgtde1wca97u/public_html/index.php on line 10
+[25-Sep-2025 15:39:05 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/includes/functions.php on line 10
+[25-Sep-2025 15:39:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/includes/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/includes/functions.php:10
+Stack trace:
+#0 /home/wgtde1wca97u/public_html/index.php(15): require_once()
+#1 {main}
+  thrown in /home/wgtde1wca97u/public_html/includes/functions.php on line 10
+[25-Sep-2025 15:39:05 UTC] PHP Warning:  require_once(/home/wgtde1wca97u/public_html/includes/../../config/config.php): Failed to open stream: No such file or directory in /home/wgtde1wca97u/public_html/includes/functions.php on line 10
+[25-Sep-2025 15:39:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wgtde1wca97u/public_html/includes/../../config/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wgtde1wca97u/public_html/includes/functions.php:10
+Stack trace:
+#0 /home/wgtde1wca97u/public_html/index.php(15): require_once()
+#1 {main}
+  thrown in /home/wgtde1wca97u/public_html/includes/functions.php on line 10
