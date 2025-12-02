@@ -1,6 +1,6 @@
-🛒 Descripción del Proyecto – Mermelada Savora (Tienda Online en PHP + MySQL + Docker)
+🛒 Descripción del Proyecto –  (Tienda Online en PHP + MySQL + Docker)
 
-Mermelada Savora es una tienda en línea desarrollada en PHP nativo, utilizando MySQL como motor de base de datos y desplegada mediante Docker, lo que permite un entorno reproducible, portable y fácil de instalar.
+ es una tienda en línea desarrollada en PHP nativo, utilizando MySQL como motor de base de datos y desplegada mediante Docker, lo que permite un entorno reproducible, portable y fácil de instalar.
 El objetivo del proyecto es ofrecer una experiencia sencilla y funcional para que los clientes puedan explorar productos, agregarlos al carrito y realizar compras simuladas mediante un checkout básico.
 
 🚀 Características principales
